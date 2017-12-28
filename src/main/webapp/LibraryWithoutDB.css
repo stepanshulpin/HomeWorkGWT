@@ -1,0 +1,102 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+.notvalid{
+    color: red;
+}
+
+.valid{
+    color: black;
+}
+
+.header {
+  background-color: #2062B8;
+  font-style: italic;
+}
+
+.list {
+  border: 1px solid silver;
+  padding: 2px;
+  margin-bottom: 6px;
+}
+
+.numberOfPagesButton{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  border-top-color: #ccc;
+  border-right-color: #ccc;
+  border-bottom-color: #ccc;
+  border-left-color: #ccc;
+  background: lightblue;
+}
+
+.pageButton{
+   padding-top: 3px;
+   padding-bottom: 3px;
+   padding-left: 5px;
+   padding-right: 5px;
+   border-top-width: 1px;
+   border-right-width: 1px;
+   border-bottom-width: 1px;
+   border-left-width: 1px;
+   border-top-style: outset;
+   border-right-style: outset;
+   border-bottom-style: outset;
+   border-left-style: outset;
+   border-top-color: #ccc;
+   border-right-color: #ccc;
+   border-bottom-color: #ccc;
+   border-left-color: #ccc;
+   background: transparent;
+ }
+
+.buttonNotSort{
+  width: 100%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  border-top-color: #ccc;
+  border-right-color: #ccc;
+  border-bottom-color: #ccc;
+  border-left-color: #ccc;
+
+  background: #2062B8;
+  color: white;
+}
+
+.buttonSort{
+  background: #15264b;
+  color: white;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
